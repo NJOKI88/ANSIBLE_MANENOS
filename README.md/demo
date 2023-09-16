@@ -2,3 +2,9 @@
 #typed and published directly from my vscode
 # I love devops
 # IT rocks
+we use java based projects
+developers build codes and  push them into github which is our scm
+we use gitbash for versioning 
+as a devop engineer i ensure development environment is configured and secured 
+in github we create organisation ,repos,teams assign members to teams using credentials
+grant roles to team members and collaborators
